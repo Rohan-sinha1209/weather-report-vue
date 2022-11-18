@@ -1,6 +1,6 @@
 # weather
 
-Enter the City OR State Name and Hit Enter key, it will work
+Enter the City  State OR Country Name and Hit Enter key, it will work
 
 ## Project setup
 ```
