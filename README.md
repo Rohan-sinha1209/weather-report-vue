@@ -1,5 +1,7 @@
 # weather
 
+Enter the City and State Name and Hit Enter key, it will work
+
 ## Project setup
 ```
 npm install
